@@ -1,0 +1,4 @@
+name,function
+Optimus, leader
+Bumblebee, espionage
+eject, ELECTRONIC SURVEILLANCE
