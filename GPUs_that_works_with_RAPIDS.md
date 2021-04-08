@@ -1,3 +1,4 @@
+Taken from Dropout Analytics https://medium.com/dropout-analytics/which-gpus-work-with-rapids-ai-f562ef29c75f
 # Prerequisites
 The RAPIDS AI GPU accelerated data science suite runs on all GPUs with NVIDIA Pascal architecture (or better) and compute capability 6.0+.
 
