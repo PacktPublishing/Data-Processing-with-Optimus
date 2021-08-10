@@ -1,0 +1,12 @@
+<item>
+  <field name="name">OPTIMUS</field>
+  <field name="function">Leader</field>
+</item>
+<item>
+  <field name="name">BUMBLEBEE</field>
+  <field name="function">Espionage</field>
+</item>
+<item>
+  <field name="name">EJECT</field>
+  <field name="function"> Electronic Surveillance</field>
+</item>
