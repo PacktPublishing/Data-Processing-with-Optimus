@@ -1,0 +1,4 @@
+In your conda environment:
+
+set "FLASK_APP=flask-app.py"
+flask run
