@@ -63,3 +63,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 **Luis Aguirre** began working with web development projects for Mood Agency in 2018, creating sites for brands from all across Latin America. One year later he started working on Bumblebee, a low-code web platform to transform data that uses Optimus. In mid-2020 he started participating in the Optimus project as a core developer; focusing on creating the easiest-to-use experience for both projects. In 2021 he started working on the Optimus REST API, a tool to allow requests from the web focused on data wrangling.
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801079563">https://packt.link/free-ebook/9781801079563 </a> </p>
